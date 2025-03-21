@@ -1,0 +1,24 @@
+# <string>
+WALLET_NAME: "A"
+
+# <string>
+PASSWORD: "1234"
+
+# <list> 11 words
+MY_WORDS:
+  [
+    "virtual",
+    "ticket",
+    "inner",
+    "hobby",
+    "cart",
+    "blouse",
+    "able",
+    "proof",
+    "morning",
+    "bounce",
+    "donate",
+  ]
+
+# <int> 1-12, default=1
+CURRENT_POSITION: 1
